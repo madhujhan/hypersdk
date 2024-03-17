@@ -33,7 +33,8 @@ significantly over the coming months as its modules are optimized and
 audited.
 
 ## Features
-### Arbitrary Token Minting
+### Arbitrary Token Minting\
+
 The basis of the `tokenvm` is the ability to create, mint, and transfer user-generated
 tokens with ease. When creating an asset, the owner is given "admin control" of
 the asset functions and can later mint more of an asset, update its metadata
